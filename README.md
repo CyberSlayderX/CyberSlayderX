@@ -18,7 +18,7 @@
 <a href="https://instagram.com/newdesingoficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.facebook.com/profile.php?id=100064869258541" target="_blank"><img src="https://img.shields.io/badge/Facebook-4326C4?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 <a href = "mailto:cmp.1a.alexandercalsina7@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/alexander-calsina-curasi-desarrollador-junior-0995aa24a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-18A303?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/alexander-calsina-curasi-desarrollador-fullstack-0995aa24a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-18A303?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href="https://instagram.com/newdesingoficial" target="_blank"><img src="https://img.shields.io/badge/Portafolio-F91212?style=for-the-badge&logo=codesignal&logoColor=white"</a>
 
 
